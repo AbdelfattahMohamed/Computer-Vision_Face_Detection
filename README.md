@@ -19,6 +19,7 @@ you do face recognition on a folder of images from the command line!
 
 
 [![PyPI](https://img.shields.io/apm/l/Coursera?color=blue&logo=Coursera&style=for-the-badge)]
+[https://img.shields.io/github/license/AbdelfattahMohamed/Computer-Vision_Face_Detection-?color=blue&label=github&logo=github&logoColor=red]
 [![Build Status](https://github.com/ageitgey/face_recognition/workflows/CI/badge.svg?branch=master&event=push)](https://github.com/ageitgey/face_recognition/actions?query=workflow%3ACI)
 [![Documentation Status](https://readthedocs.org/projects/face-recognition/badge/?version=latest)](http://face-recognition.readthedocs.io/en/latest/?badge=latest)
 
@@ -28,7 +29,7 @@ you do face recognition on a folder of images from the command line!
 
 Find all the faces that appear in a picture:
 
-![](https://cloud.githubusercontent.com/assets/896692/23625227/42c65360-025d-11e7-94ea-b12f28cb34b4.png)
+![](download.jpg)
 
 ```python
 import face_recognition
