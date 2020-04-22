@@ -17,9 +17,8 @@ Find all the faces that appear in a picture:
 
 ![](download.jpg)
 <img src="https://img.icons8.com/plasticine/100/000000/arrow.png"/>
-![](Run.jpg)
-```python
-import face_recognition
-image = face_recognition.load_image_file("your_file.jpg")
-face_locations = face_recognition.face_locations(image)
-```
+![](Run.png)
+ 
+ ## For Run the project
+ 
+ Enter the path of your project after start tha application
