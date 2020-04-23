@@ -5,7 +5,6 @@ Using OpenCV &amp; Python
 Enter the path of your photo after run the Notebook
 # Face Recognition
 
-![PyPI](https://img.shields.io/apm/l/computer-vision-object-detection?color=blue&label=coursera&logo=coursera&style=social)
 [![Build Status](https://img.shields.io/github/license/AbdelfattahMohamed/Computer-Vision_Face_Detection-?color=blue&label=github&logo=github&logoColor=red)](https://github.com/AbdelfattahMohamed/Computer-Vision_Face_Detection-)
 
 
